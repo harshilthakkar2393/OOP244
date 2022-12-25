@@ -1,0 +1,24 @@
+language
+	noun: the principal method of human communication, consisting of words used in a structured and conventional way and conveyed by speech, writing, or gesture.
+	noun: a system of communication used by a particular country or community.
+
+fine
+	adjective: of high quality.
+	adjective: (of a thread, filament, or person's hair) thin.
+	noun: very small particles found in mining, milling, etc.
+	adverb: in a satisfactory or pleasing manner; very well.
+	verb: clarify (beer or wine) by causing the precipitation of sediment during production.
+	verb: make or become thinner.
+
+programming
+	noun: the process or activity of writing computer programs.
+	noun: the action or process of scheduling something, especially radio or television programs.
+
+apple
+	noun: the round fruit of a tree of the rose family, which typically has thin red or green skin and crisp flesh. Many varieties have been developed as dessert or cooking fruit or for making cider.
+	noun: the tree which bears apples.
+
+computer
+	noun: an electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program.
+	noun: a person who makes calculations, especially with a calculating machine.
+

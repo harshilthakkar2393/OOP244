@@ -1,0 +1,94 @@
+------------------------------------------------------------
+USAGE CASE #1: bad input file
+------------------------------------------------------------
+SUCCESS
+------------------------------------------------------------
+
+------------------------------------------------------------
+USAGE CASE #2: good dictionary
+------------------------------------------------------------
+SUCCESS
+
+Search for the word 'fine'
+
+FOUND: [fine] has [4] definitions:
+1. {adjective} of high quality.
+2. {adjective} (of a thread, filament, or person's hair) thin.
+3. {noun} very small particles found in mining, milling, etc.
+4. {adverb} in a satisfactory or pleasing manner; very well.
+
+Adding 2 more definitions to word 'fine' and display it.
+
+FOUND: [fine] has [6] definitions:
+1. {adjective} of high quality.
+2. {adjective} (of a thread, filament, or person's hair) thin.
+3. {noun} very small particles found in mining, milling, etc.
+4. {adverb} in a satisfactory or pleasing manner; very well.
+5. {verb} clarify (beer or wine) by causing the precipitation of sediment during production.
+6. {verb} make or become thinner.
+
+Display the word 'apple'.
+
+FOUND: [apple] has [2] definitions:
+1. {noun} the round fruit of a tree of the rose family, which typically has thin red or green skin and crisp flesh. Many varieties have been developed as dessert or cooking fruit or for making cider.
+2. {non} the very which bears apples.
+
+OOOPS! The SECOND definition for apple is wrong. Let's update it.
+
+The word [apple] has multiple definitions:
+1. {noun} the round fruit of a tree of the rose family, which typically has thin red or green skin and crisp flesh. Many varieties have been developed as dessert or cooking fruit or for making cider.
+2. {non} the very which bears apples.
+Which one to update? 2
+
+FOUND: [apple] has [2] definitions:
+1. {noun} the round fruit of a tree of the rose family, which typically has thin red or green skin and crisp flesh. Many varieties have been developed as dessert or cooking fruit or for making cider.
+2. {noun} the tree which bears apples.
+
+
+Adding more words and display them.
+
+FOUND: [language] has [2] definitions:
+1. {noun} the principal method of human communication, consisting of words used in a structured and conventional way and conveyed by speech, writing, or gesture.
+2. {noun} a system of communication used by a particular country or community.
+
+FOUND: [computer] has [2] definitions:
+1. {noun} an electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program.
+2. {noun} a person who makes calculations, especially with a calculating machine.
+------------------------------------------------------------
+
+------------------------------------------------------------
+USAGE CASE #3: bad input file
+------------------------------------------------------------
+SUCCESS
+NOT FOUND: word [apple] is not in the dictionary.
+------------------------------------------------------------
+
+------------------------------------------------------------
+USAGE CASE #4: loading the previously saved dictionary
+------------------------------------------------------------
+SUCCESS
+Search for the word 'apple'
+
+FOUND: [apple] has [2] definitions:
+1. {noun} the round fruit of a tree of the rose family, which typically has thin red or green skin and crisp flesh. Many varieties have been developed as dessert or cooking fruit or for making cider.
+2. {noun} the tree which bears apples.
+
+
+Search for the word 'language'
+
+FOUND: [language] has [2] definitions:
+1. {noun} the principal method of human communication, consisting of words used in a structured and conventional way and conveyed by speech, writing, or gesture.
+2. {noun} a system of communication used by a particular country or community.
+
+
+Search for the word 'computer'
+
+FOUND: [computer] has [2] definitions:
+1. {noun} an electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program.
+2. {noun} a person who makes calculations, especially with a calculating machine.
+
+
+Search for the word 'oop'
+
+NOT FOUND: word [oop] is not in the dictionary.
+------------------------------------------------------------
