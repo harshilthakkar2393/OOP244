@@ -1,0 +1,62 @@
+****** Valet Parking ******
+*****  Available spots: 1    *****
+Parking Menu, select an action:
+1- Park Vehicle
+2- Return Vehicle
+3- List Parked Vehicles
+4- Find Vehicle
+5- Close Parking (End of day)
+6- Exit Program
+> 4
+Vehicle Search
+Enter License Plate Number: abc
+
+License plate ABC Not found
+
+Press <ENTER> to continue....
+****** Valet Parking ******
+*****  Available spots: 1    *****
+Parking Menu, select an action:
+1- Park Vehicle
+2- Return Vehicle
+3- List Parked Vehicles
+4- Find Vehicle
+5- Close Parking (End of day)
+6- Exit Program
+> 4
+Vehicle Search
+Enter License Plate Number: qwe
+
+Vechicle found:
+Vehicle type: Motorcycle
+Parking Spot Number: 8
+License Plate: QWE
+Make and Model: Ninja H2
+
+Press <ENTER> to continue....
+****** Valet Parking ******
+*****  Available spots: 1    *****
+Parking Menu, select an action:
+1- Park Vehicle
+2- Return Vehicle
+3- List Parked Vehicles
+4- Find Vehicle
+5- Close Parking (End of day)
+6- Exit Program
+> 6
+This will terminate the program!
+Are you sure? (Y)es/(N)o: y
+Exiting program!
+
+Content of ParkingData.csv after the program exits
+-----------------------------------------------------------
+c,1,asd123,honda civic,0
+m,2,as12,honda 125,1
+c,3,qwe123,bmw 320,1
+m,5,zxc123,suzuki 750,0
+c,6,asdasd,ford f150,0
+m,7,zxc,ninja 650,0
+m,8,qwe,ninja h2,0
+c,9,gvaa123,tesla model 3,1
+c,10,qweasd,cadilac xt5,0
+-----------------------------------------------------------

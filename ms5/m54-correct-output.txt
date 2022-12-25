@@ -1,0 +1,86 @@
+****** Valet Parking ******
+*****  Available spots: 1    *****
+Parking Menu, select an action:
+1- Park Vehicle
+2- Return Vehicle
+3- List Parked Vehicles
+4- Find Vehicle
+5- Close Parking (End of day)
+6- Exit Program
+> 5
+This will Remove and tow all remaining vehicles from the parking!
+Are you sure? (Y)es/(N)o: y
+Closing Parking
+
+Towing request
+*********************
+Vehicle type: Car
+Parking Spot Number: 1
+License Plate: ASD123
+Make and Model: Honda Civic
+Without Carwash
+
+Towing request
+*********************
+Vehicle type: Motorcycle
+Parking Spot Number: 2
+License Plate: AS12
+Make and Model: Honda 125
+With Sidecar
+
+Towing request
+*********************
+Vehicle type: Car
+Parking Spot Number: 3
+License Plate: QWE123
+Make and Model: BMW 320
+With Carwash
+
+Towing request
+*********************
+Vehicle type: Motorcycle
+Parking Spot Number: 5
+License Plate: ZXC123
+Make and Model: Suzuki 750
+
+Towing request
+*********************
+Vehicle type: Car
+Parking Spot Number: 6
+License Plate: ASDASD
+Make and Model: Ford F150
+Without Carwash
+
+Towing request
+*********************
+Vehicle type: Motorcycle
+Parking Spot Number: 7
+License Plate: ZXC
+Make and Model: Ninja 650
+
+Towing request
+*********************
+Vehicle type: Motorcycle
+Parking Spot Number: 8
+License Plate: QWE
+Make and Model: Ninja H2
+
+Towing request
+*********************
+Vehicle type: Car
+Parking Spot Number: 9
+License Plate: GVAA123
+Make and Model: Tesla Model 3
+With Carwash
+
+Towing request
+*********************
+Vehicle type: Car
+Parking Spot Number: 10
+License Plate: QWEASD
+Make and Model: Cadilac XT5
+Without Carwash
+
+Content of ParkingData.csv after the program exits
+-----------------------------------------------------------
+-----------------------------------------------------------

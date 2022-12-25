@@ -1,0 +1,89 @@
+****** Valet Parking ******
+*****  Available spots: 1    *****
+Parking Menu, select an action:
+1- Park Vehicle
+2- Return Vehicle
+3- List Parked Vehicles
+4- Find Vehicle
+5- Close Parking (End of day)
+6- Exit Program
+> 3
+*** List of parked vehicles ***
+Vehicle type: Car
+Parking Spot Number: 1
+License Plate: ASD123
+Make and Model: Honda Civic
+Without Carwash
+-------------------------------
+Vehicle type: Motorcycle
+Parking Spot Number: 2
+License Plate: AS12
+Make and Model: Honda 125
+With Sidecar
+-------------------------------
+Vehicle type: Car
+Parking Spot Number: 3
+License Plate: QWE123
+Make and Model: BMW 320
+With Carwash
+-------------------------------
+Vehicle type: Motorcycle
+Parking Spot Number: 5
+License Plate: ZXC123
+Make and Model: Suzuki 750
+-------------------------------
+Vehicle type: Car
+Parking Spot Number: 6
+License Plate: ASDASD
+Make and Model: Ford F150
+Without Carwash
+-------------------------------
+Vehicle type: Motorcycle
+Parking Spot Number: 7
+License Plate: ZXC
+Make and Model: Ninja 650
+-------------------------------
+Vehicle type: Motorcycle
+Parking Spot Number: 8
+License Plate: QWE
+Make and Model: Ninja H2
+-------------------------------
+Vehicle type: Car
+Parking Spot Number: 9
+License Plate: GVAA123
+Make and Model: Tesla Model 3
+With Carwash
+-------------------------------
+Vehicle type: Car
+Parking Spot Number: 10
+License Plate: QWEASD
+Make and Model: Cadilac XT5
+Without Carwash
+-------------------------------
+Press <ENTER> to continue....
+****** Valet Parking ******
+*****  Available spots: 1    *****
+Parking Menu, select an action:
+1- Park Vehicle
+2- Return Vehicle
+3- List Parked Vehicles
+4- Find Vehicle
+5- Close Parking (End of day)
+6- Exit Program
+> 6
+This will terminate the program!
+Are you sure? (Y)es/(N)o: y
+Exiting program!
+
+Content of ParkingData.csv after the program exits
+-----------------------------------------------------------
+c,1,asd123,honda civic,0
+m,2,as12,honda 125,1
+c,3,qwe123,bmw 320,1
+m,5,zxc123,suzuki 750,0
+c,6,asdasd,ford f150,0
+m,7,zxc,ninja 650,0
+m,8,qwe,ninja h2,0
+c,9,gvaa123,tesla model 3,1
+c,10,qweasd,cadilac xt5,0
+-----------------------------------------------------------
