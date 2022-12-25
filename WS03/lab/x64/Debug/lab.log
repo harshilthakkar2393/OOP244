@@ -1,0 +1,8 @@
+﻿  Utils.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\StudentHelp\Erin\OOP244-Works\Workshops\WS02-Part1\Utils.cpp': No such file or directory
+  CC.cpp
+C:\Users\harsh\OneDrive\Desktop\OOP\workshops\WS03\lab\CC.cpp(31,40): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\harsh\OneDrive\Desktop\OOP\workshops\WS03\lab\CC.cpp(33,34): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\harsh\OneDrive\Desktop\OOP\workshops\WS03\lab\CC.cpp(35,33): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
